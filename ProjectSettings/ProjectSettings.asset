@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: d2bd23618d611c443b19773007b3676b
+  productGUID: 7ad6844cfeb9abb40b2a58f39712d485
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Progetto_Porsche_Samuele_Bugjzi
+  productName: Samuele_Bugjzi_Progetto_Porsche
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -838,14 +838,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Progetto_Porsche_Samuele_Bugjzi
+  metroPackageName: Samuele_Bugjzi_Progetto_Porsche
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Progetto_Porsche_Samuele_Bugjzi
+  metroApplicationDescription: Samuele_Bugjzi_Progetto_Porsche
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -916,10 +916,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7c18faf4-5a35-4667-82ab-42dc26958b7d
+  cloudProjectId: f0eecdb6-33ab-40ee-ac05-c5ca70215b48
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Progetto_Porsche_Samuele_Bugjzi
+  projectName: Samuele_Bugjzi_Progetto_Porsche
   organizationId: samuele_bugjzi
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
